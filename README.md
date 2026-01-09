@@ -1,6 +1,6 @@
 # Travel
 
-[Demo](https://nekrasovanatalya.github.io/Travel/)
+[Demo](https://AlexandraMaskalunas.github.io/Travel/)
 
 **Travel** – лендинг для планирования путешествий.
 
